@@ -1,5 +1,3 @@
-![Header](https://github.com/yaghyapran24chouksey/blob/main/assets/header.png)
-
 # 👋 Hi, I'm Yaghyapran Chouksey! 🚀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yaghyapran24chouksey&color=brightgreen)
